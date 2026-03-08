@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.venv/
+*.pdf
+!examples/old.pdf
+!examples/new.pdf
+!examples/old_diff.pdf
+!examples/new_diff.pdf
+.DS_Store

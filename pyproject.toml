@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pdfcompare"
+version = "0.1.0"
+description = "Visual diff for born-digital PDFs — highlights changes directly on the original pages"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+keywords = ["pdf", "diff", "compare", "highlight", "academic", "paper"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Topic :: Text Processing :: General",
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+    "PyMuPDF>=1.24",
+]
+
+[project.scripts]
+pdfcompare = "pdfcompare.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
