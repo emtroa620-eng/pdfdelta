@@ -3,11 +3,11 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pdfcompare"
+name = "pdfdelta"
 version = "0.1.0"
 description = "Visual diff for born-digital PDFs — highlights changes directly on the original pages"
 readme = "README.md"
-license = "MIT"
+license = {text = "MIT"}
 requires-python = ">=3.10"
 keywords = ["pdf", "diff", "compare", "highlight", "academic", "paper"]
 classifiers = [
@@ -21,7 +21,7 @@ dependencies = [
 ]
 
 [project.scripts]
-pdfcompare = "pdfcompare.cli:main"
+pdfdelta = "pdfdelta.cli:main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}

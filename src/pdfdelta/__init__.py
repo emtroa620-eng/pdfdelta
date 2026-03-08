@@ -1,4 +1,4 @@
-"""pdfcompare — visual diff for born-digital PDFs."""
+"""pdfdelta — visual diff for born-digital PDFs."""
 
 from .annotate import apply_annotations
 from .compare import compare_documents

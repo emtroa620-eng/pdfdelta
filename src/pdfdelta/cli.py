@@ -10,7 +10,7 @@ from .extract import extract_document
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        prog="pdfcompare",
+        prog="pdfdelta",
         description="Compare two born-digital PDFs and write highlights back to original PDFs.",
     )
     parser.add_argument("old_pdf", help="old/original PDF")

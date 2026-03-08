@@ -1,6 +1,6 @@
-# pdfcompare
+# pdfdelta
 
-**pdfcompare** is a lightweight visual diff tool for born-digital PDFs.
+**pdfdelta** is a lightweight visual diff tool for born-digital PDFs.
 
 Given an old and a new version of a PDF, it writes highlights directly onto the original pages so revisions are easy to review: deletions on the old file, additions on the new file.
 
@@ -24,13 +24,13 @@ It is mainly designed for academic papers and technical documents, where small w
 If you are using the repository directly:
 
 ```sh
-pip install git+https://github.com/mli55/pdfcompare.git
+pip install git+https://github.com/mli55/pdfdelta.git
 ```
 
 ## Usage
 
 ```sh
-pdfcompare old.pdf new.pdf
+pdfdelta old.pdf new.pdf
 ```
 
 This writes two annotated files:
